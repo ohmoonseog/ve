@@ -30,3 +30,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 	<version>0.0.1</version>
 	<name>koneps-sample-web</name>
 	<description>koneps-sample-web project for Spring Boot</description>
+	
+	package koneps.sample.com.service;
